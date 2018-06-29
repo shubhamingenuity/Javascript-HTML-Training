@@ -1,0 +1,30 @@
+body {
+    background-color: #ad3131;
+}
+#border {
+border-color: aqua;
+border-radius: 20%;
+border-style: double;
+border-width: 2px;
+width: 60%;
+text-align: left;
+margin: 50px ;
+}
+#progressBar{
+    
+    height: 2em;
+    background-color: blueviolet;
+    border-radius: 40%;
+    width: 0%;
+    
+}
+#buttonDiv{
+    width: 80%;
+    text-align: left;
+}
+#progressText{
+width: 40%;
+font-style: inherit;
+font-size: 5em;
+text-align: left;
+}
