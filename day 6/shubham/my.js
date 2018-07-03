@@ -6,7 +6,7 @@ fullname: function  () {
     console.log(this.firstname+this.lastname);
 },
 address: function ty (s,j){
-console.log(this.firstname+this.lastname+s+j);
+console.log(TimeRanges.firstname+s+j);
   
 }
 }
